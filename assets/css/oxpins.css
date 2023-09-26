@@ -570,7 +570,7 @@ ul {
   width: 15px;
   height: 5px;
   content: "";
-  background-image: url(../images/shapes/main-menu__volunteers-icon-shape.png);
+  /* background-image: url(../images/shapes/main-menu__volunteers-icon-shape.png); */
   background-repeat: no-repeat;
   transform: rotate(220deg);
 }

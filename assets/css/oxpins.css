@@ -48,11 +48,12 @@
 }
 
 body {
-  font-family: var(--oxpins-font);
+  /* font-family: var(--oxpins-font); */
   color: var(--oxpins-gray);
   font-size: 15px;
   line-height: 30px;
   font-weight: 500;
+  font-family: 'wienprounic-regular', sans-serif;
 }
 
 body.locked {
@@ -97,7 +98,7 @@ h4,
 h5,
 h6 {
   color: #fff;
-  font-family: var(--oxpins-font-two);
+  font-family: 'wienprounic-regular', sans-serif;
   margin: 0;
 }
 
@@ -294,7 +295,8 @@ ul {
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 10px;
-  font-family: var(--oxpins-font-three);
+  /* font-family: var(--oxpins-font-three); */
+  font-family: ;
 }
 
 .section-title__title {
@@ -583,7 +585,8 @@ ul {
   font-size: 24px;
   font-weight: 700;
   color: var(--oxpins-black);
-  font-family: var(--oxpins-font-three);
+  font-family: 'wienprounic-regular', sans-serif;
+  /* font-family: var(--oxpins-font-three); */
 }
 
 .main-menu__volunteers-text a {
@@ -2478,7 +2481,8 @@ body.locked .page-wrapper {
   color: #d1eaff;
   font-weight: 700;
   line-height: 40px;
-  font-family: var(--oxpins-font-three);
+  font-family: 'wienprounic-regular', sans-serif;
+  /* font-family: var(--oxpins-font-three); */
   opacity: 0;
   visibility: hidden;
   -webkit-transform: translateY(-120px);
@@ -3529,7 +3533,7 @@ body.locked .page-wrapper {
   font-size: 24px;
   color: var(--oxpins-primary);
   font-weight: 700;
-  font-family: var(--oxpins-font-three);
+font-family: 'wienprounic-regular', sans-serif;
 }
 
 .become-volunteer-one__title {

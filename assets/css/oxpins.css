@@ -6591,7 +6591,7 @@ font-family: 'wienprounic-regular', sans-serif;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .contact-one__single {

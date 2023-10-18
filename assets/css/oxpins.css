@@ -185,7 +185,7 @@ ul {
   left: 0;
   right: 0;
   bottom: 0;
-  width: 100%;
+  width: 0%;
   height: 100%;
   background-position: 50% 50%;
   opacity: 0.4;
@@ -246,7 +246,7 @@ ul {
   appearance: none;
   outline: none !important;
   background-color: #604EA2;
-  color: #000;
+  color: #fff;
   font-size: 14px;
   font-weight: 800;
   text-transform: uppercase;
@@ -2614,7 +2614,7 @@ body.locked .page-wrapper {
 
 .main-slider-two .swiper-slide {
   position: relative;
-  background-color: var(--oxpins-black);
+  /* background-color: var(--oxpins-black); */
 }
 
 .main-slider-two .container {
@@ -2655,7 +2655,7 @@ body.locked .page-wrapper {
   left: 0;
   right: 0;
   content: "";
-  background-color: rgba(var(--oxpins-black-rgb), .50);
+  /* background-color: rgba(var(--oxpins-black-rgb), .50); */
 }
 
 .main-slider-two-shape-1 {
@@ -2672,6 +2672,7 @@ body.locked .page-wrapper {
 }
 
 .main-slider-two-shape-2 {
+  display: none;
   position: absolute;
   top: 0;
   right: 0;
@@ -2713,7 +2714,7 @@ body.locked .page-wrapper {
   font-weight: 900;
   line-height: 110px;
   letter-spacing: -0.04em;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin-top: 18px;
   margin-bottom: 24px;
   opacity: 0;

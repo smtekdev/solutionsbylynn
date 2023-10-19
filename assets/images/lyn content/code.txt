@@ -1,0 +1,1812 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Two || Oxpins || Oxpins HTML 5 Template</title>
+    <!-- favicons Icons -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/images/favicons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/images/favicons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/images/favicons/favicon-16x16.png"
+    />
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="Oxpins HTML 5 Template " />
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+
+    <link
+      href="../../css2.css?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="../../css2-1.css?family=Manrope:wght@200;300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="../../css2-2.css?family=Caveat:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="assets/vendors/bootstrap/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
+    <link rel="stylesheet" href="assets/vendors/animate/custom-animate.css" />
+    <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css"
+    />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/nouislider/nouislider.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/nouislider/nouislider.pips.css"
+    />
+    <link rel="stylesheet" href="assets/vendors/odometer/odometer.min.css" />
+    <link rel="stylesheet" href="assets/vendors/swiper/swiper.min.css" />
+    <link rel="stylesheet" href="assets/vendors/oxpins-icons/style.css" />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/tiny-slider/tiny-slider.min.css"
+    />
+    <link rel="stylesheet" href="assets/vendors/reey-font/stylesheet.css" />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/owl-carousel/owl.carousel.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/owl-carousel/owl.theme.default.min.css"
+    />
+    <link rel="stylesheet" href="assets/vendors/bxslider/jquery.bxslider.css" />
+    <link
+      rel="stylesheet"
+      href="assets/vendors/bootstrap-select/css/bootstrap-select.min.css"
+    />
+    <link rel="stylesheet" href="assets/vendors/vegas/vegas.min.css" />
+    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="assets/vendors/timepicker/timePicker.css" />
+
+    <!-- template styles -->
+    <link rel="stylesheet" href="assets/css/oxpins.css" />
+    <link rel="stylesheet" href="assets/css/oxpins-responsive.css" />
+  </head>
+
+  <body class="custom-cursor">
+    <div class="custom-cursor__cursor"></div>
+    <div class="custom-cursor__cursor-two"></div>
+
+    <div class="preloader">
+      <div class="preloader__image"></div>
+    </div>
+    <!-- /.preloader -->
+
+    <div class="page-wrapper">
+      <header class="main-header-two">
+        <nav class="main-menu main-menu-two">
+          <div class="main-menu-two__wrapper">
+            <div class="main-menu-two__wrapper-inner">
+              <div class="main-menu-two__left">
+                <div class="main-menu-two__logo">
+                  <a href="index.html"
+                    ><img src="assets/images/resources/logo-2.png" alt=""
+                  /></a>
+                </div>
+                <div class="main-menu-two__shape-1 float-bob-x">
+                  <img
+                    src="assets/images/shapes/main-menu-shape-1.png"
+                    alt=""
+                  />
+                </div>
+              </div>
+              <div class="main-menu-two__right">
+                <div class="main-menu-two__right-top">
+                  <div class="main-menu-two__right-top-left">
+                    <div class="main-menu-two__volunteers">
+                      <div class="main-menu-two__volunteers-icon">
+                        <img
+                          src="assets/images/icon/main-menu-heart-icon.png"
+                          alt=""
+                        />
+                      </div>
+                      <div class="main-menu-two__volunteers-text-box">
+                        <p class="main-menu-two__volunteers-text">
+                          <a href="become-volunteer.html"
+                            >Become a <span>volunteers</span></a
+                          >
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="main-menu-two__right-top-right">
+                    <div class="main-menu-two__right-top-address">
+                      <ul
+                        class="list-unstyled main-menu-two__right-top-address-list"
+                      >
+                        <li>
+                          <div class="icon">
+                            <span class="icon-phone-call"></span>
+                          </div>
+                          <div class="content">
+                            <p>Helpline</p>
+                            <h5>
+                              <a href="tel:980009630">+ 98 (000) - 9630</a>
+                            </h5>
+                          </div>
+                        </li>
+                        <li>
+                          <div class="icon">
+                            <span class="icon-message"></span>
+                          </div>
+                          <div class="content">
+                            <p>Send email</p>
+                            <h5>
+                              <a href="mailto:needhelp@company.com"
+                                >needhelp@company.com</a
+                              >
+                            </h5>
+                          </div>
+                        </li>
+                        <li>
+                          <div class="icon">
+                            <span class="icon-location"></span>
+                          </div>
+                          <div class="content">
+                            <p>380 St Kilda Road</p>
+                            <h5>Melbourne, Australia</h5>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="main-menu-two__right-bottom">
+                  <div class="main-menu-two__main-menu-box">
+                    <a href="#" class="mobile-nav__toggler"
+                      ><i class="fa fa-bars"></i
+                    ></a>
+                    <ul class="main-menu__list">
+                      <li class="dropdown current megamenu">
+                        <a href="index.html">Home </a>
+                        <ul>
+                          <li>></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#">Pages</a>
+                        <ul>
+                          <li><a href="about.html">About</a></li>
+                          <li><a href="volunteer.html">Volunteer</a></li>
+                          <li>
+                            <a href="become-volunteer.html">Become volunteer</a>
+                          </li>
+                          <li>
+                            <a href="volunteer-carousel.html"
+                              >Volunteer carousel</a
+                            >
+                          </li>
+                          <li><a href="gallery.html">Gallery</a></li>
+                          <li>
+                            <a href="gallery-carousel.html">Gallery carousel</a>
+                          </li>
+                          <li><a href="faq.html">FAQs</a></li>
+                          <li><a href="404.html">404 Error</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#">Donations</a>
+                        <ul>
+                          <li><a href="donation.html">Donation</a></li>
+                          <li>
+                            <a href="donations-list.html">Donation list</a>
+                          </li>
+                          <li>
+                            <a href="donation-carousel.html"
+                              >Donation carousel</a
+                            >
+                          </li>
+                          <li>
+                            <a href="donation-details.html">Donation details</a>
+                          </li>
+                          <li><a href="donate-now.html">Donate Now</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#">Events</a>
+                        <ul>
+                          <li><a href="events.html">Events</a></li>
+                          <li>
+                            <a href="events-carousel.html">Events carousel</a>
+                          </li>
+                          <li>
+                            <a href="event-details.html">Event details</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#">News</a>
+                        <ul>
+                          <li><a href="news.html">News</a></li>
+                          <li>
+                            <a href="news-carousel.html">News carousel</a>
+                          </li>
+                          <li>
+                            <a href="news-sidebar.html">News right sidebar</a>
+                          </li>
+                          <li>
+                            <a href="news-sidebar-left.html"
+                              >News left sidebar</a
+                            >
+                          </li>
+                          <li><a href="news-details.html">News details</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="products.html">Shop</a>
+                        <ul>
+                          <li><a href="products.html">Shop</a></li>
+                          <li>
+                            <a href="product-details.html">Product details</a>
+                          </li>
+                          <li><a href="cart.html">Cart</a></li>
+                          <li><a href="checkout.html">Checkout</a></li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href="contact.html">Contact</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="main-menu-two__main-menu-content-box">
+                    <div class="main-menu-two__search-cat-btn-box">
+                      <div class="main-menu-two__search-box">
+                        <a
+                          href="#"
+                          class="main-menu-two__search search-toggler icon-magnifying-glass"
+                        ></a>
+                      </div>
+                      <div class="main-menu__cat-box">
+                        <a
+                          href="cart.html"
+                          class="main-menu__cart icon-shopping-cart"
+                        ></a>
+                      </div>
+                      <div class="main-menu-two__btn-box">
+                        <a href="donate-now.html" class="main-menu-two__btn">
+                          <span class="fa fa-heart"></span> Donate now</a
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+      <div class="stricky-header stricked-menu main-menu main-menu-two">
+        <div class="sticky-header__content"></div>
+        <!-- /.sticky-header__content -->
+      </div>
+      <!-- /.stricky-header -->
+
+      <!--Main Slider Start-->
+
+      <!--Main Slider End-->
+
+      <!--Feature Two Start-->
+
+      <!--Feature Two End-->
+
+      <!--About Two Start-->
+
+      <!--About Two End-->
+
+      <!--Causse Two Start-->
+      <section class="causes-two">
+        <div
+          class="causes-two-shape-1"
+          style="
+            background-image: url(assets/images/shapes/causes-two-shape-1.png);
+          "
+        ></div>
+        <div class="container">
+          <div class="causes-two__top">
+            <div class="row">
+              <div class="col-xl-7 col-lg-6">
+                <div class="causes-two-top__left">
+                  <div class="section-title text-left">
+                    <span class="section-title__tagline">Our Mission</span>
+                    <h2 class="section-title__title">
+                      Solutions by Lynn provides indigent pregnant and parenting
+                      teens with baby essentials.
+                    </h2>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xl-5 col-lg-6">
+                <div class="causes-two-top__right">
+                  <p class="causes-two-top__text">
+                    <h5>
+                    <strong>
+                      In October and March we provide students attending a
+                      selected Title-1 school with new athletic shoes and other
+                      necessities. And we teach a character and behavior
+                      curriculum to children ages 7-17.</strong
+                    ></h5>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="causes-two__tab">
+            <div class="causes-two__tab-box tabs-box">
+              <div class="row">
+                <div class="col-xl-3 col-lg-3">
+                  <div class="causes-two__tab-btn-box">
+                    <ul class="tab-buttons clearfix list-unstyled">
+                      <li data-tab="#all-causes" class="tab-btn active-btn">
+                        <span>Services <sup></sup> </span>
+                      </li>
+                      <li data-tab="#health" class="tab-btn">
+                        <span>Baby Clothes <sup></sup></span>
+                      </li>
+                      <li data-tab="#education" class="tab-btn">
+                        <span> Diapers <sup></sup></span>
+                      </li>
+                      <li data-tab="#medical" class="tab-btn">
+                        <span> Bedding<sup></sup></span>
+                      </li>
+                      <li data-tab="#food-water" class="tab-btn">
+                        <span> Nursery Essentials <sup></sup></span>
+                      </li>
+                      <li data-tab="#charity" class="tab-btn">
+                        <span> New Athletic Shoes <sup></sup></span>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-xl-9 col-lg-9">
+                  <div class="causes-two__tab-main-content">
+                    <div class="tabs-content">
+                      <!--tab-->
+                      <div class="tab active-tab" id="all-causes">
+                        <div class="causes-two__inner-content">
+                          <div
+                            class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
+                            data-owl-options='{
+                                                    "loop": true,
+                                                    "autoplay": true,
+                                                    "margin": 30,
+                                                    "nav": true,
+                                                    "dots": false,
+                                                    "smartSpeed": 500,
+                                                    "autoplayTimeout": 10000,
+                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
+                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
+                                                    "responsive": {
+                                                        "0": {
+                                                            "items": 1
+                                                        },
+                                                        "768": {
+                                                            "items": 1
+                                                        },
+                                                        "992": {
+                                                            "items": 3
+                                                        },
+                                                        "1200": {
+                                                            "items": 3.181111
+                                                        }
+                                                    }
+                                                }'
+                          >
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_2032.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Baby Clothes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >Let’s education for children get good
+                                      life</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div> -->
+                                    <!-- <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_0340.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Diapers</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >It is a long established fact that a
+                                      reader
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-2965.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Bedding</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/SolutionByLynn.7.7.2022.1.3.jpg.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Nursery essentials</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--tab Baby clothes-->
+                      <div class="tab" id="health">
+                        <div class="causes-two__inner-content">
+                          <div
+                            class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
+                            data-owl-options='{
+                                                    "loop": true,
+                                                    "autoplay": true,
+                                                    "margin": 30,
+                                                    "nav": true,
+                                                    "dots": false,
+                                                    "smartSpeed": 500,
+                                                    "autoplayTimeout": 10000,
+                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
+                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
+                                                    "responsive": {
+                                                        "0": {
+                                                            "items": 1
+                                                        },
+                                                        "768": {
+                                                            "items": 1
+                                                        },
+                                                        "992": {
+                                                            "items": 3
+                                                        },
+                                                        "1200": {
+                                                            "items": 3.181111
+                                                        }
+                                                    }
+                                                }'
+                          >
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-0346.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Baby Clothes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >Let’s education for children get good
+                                      life</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-1021.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Baby Clothes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >It is a long established fact that a
+                                      reader</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-3616.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Baby Clothes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-220955.JPG"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Baby Clothes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--tab Diapers-->
+                      <div class="tab" id="education">
+                        <div class="causes-two__inner-content">
+                          <div
+                            class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
+                            data-owl-options='{
+                                                    "loop": true,
+                                                    "autoplay": true,
+                                                    "margin": 30,
+                                                    "nav": true,
+                                                    "dots": false,
+                                                    "smartSpeed": 500,
+                                                    "autoplayTimeout": 10000,
+                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
+                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
+                                                    "responsive": {
+                                                        "0": {
+                                                            "items": 1
+                                                        },
+                                                        "768": {
+                                                            "items": 1
+                                                        },
+                                                        "992": {
+                                                            "items": 3
+                                                        },
+                                                        "1200": {
+                                                            "items": 3.181111
+                                                        }
+                                                    }
+                                                }'
+                          >
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-0732.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Diapers</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >Let’s education for children get good
+                                      life</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/SolutionByLynn.7.7.2022.1.3.jpg.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Diapers</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >It is a long established fact that a
+                                      reader</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_1936.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Diapers</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_1624.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Diapers</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--tab Bedding-->
+                      <div class="tab" id="medical">
+                        <div class="causes-two__inner-content">
+                          <div
+                            class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
+                            data-owl-options='{
+                                                    "loop": true,
+                                                    "autoplay": true,
+                                                    "margin": 30,
+                                                    "nav": true,
+                                                    "dots": false,
+                                                    "smartSpeed": 500,
+                                                    "autoplayTimeout": 10000,
+                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
+                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
+                                                    "responsive": {
+                                                        "0": {
+                                                            "items": 1
+                                                        },
+                                                        "768": {
+                                                            "items": 1
+                                                        },
+                                                        "992": {
+                                                            "items": 3
+                                                        },
+                                                        "1200": {
+                                                            "items": 3.181111
+                                                        }
+                                                    }
+                                                }'
+                          >
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-2965.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Bedding</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >Let’s education for children get good
+                                      life</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/RenderedI1.JPG"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Bedding</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >It is a long established fact that a
+                                      reader</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_1942.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Bedding</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_2032.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Bedding</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--tab 	Nursery essentials -->
+                      <div class="tab" id="food-water">
+                        <div class="causes-two__inner-content">
+                          <div
+                            class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
+                            data-owl-options='{
+                                                    "loop": true,
+                                                    "autoplay": true,
+                                                    "margin": 30,
+                                                    "nav": true,
+                                                    "dots": false,
+                                                    "smartSpeed": 500,
+                                                    "autoplayTimeout": 10000,
+                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
+                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
+                                                    "responsive": {
+                                                        "0": {
+                                                            "items": 1
+                                                        },
+                                                        "768": {
+                                                            "items": 1
+                                                        },
+                                                        "992": {
+                                                            "items": 3
+                                                        },
+                                                        "1200": {
+                                                            "items": 3.181111
+                                                        }
+                                                    }
+                                                }'
+                          >
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_2239.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Nursery Essentials</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >Let’s education for children get good
+                                      life</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-3543.PNG"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Nursery Essentials</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >It is a long established fact that a
+                                      reader
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_3670.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Nursery Essentials</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG-034655.jpg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>Nursery Essentials</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!--tab New athletic shoes-->
+                      <div class="tab" id="charity">
+                        <div class="causes-two__inner-content">
+                          <div
+                            class="causes-two__carousel owl-carousel owl-theme thm-owl__carousel"
+                            data-owl-options='{
+                                                    "loop": true,
+                                                    "autoplay": true,
+                                                    "margin": 30,
+                                                    "nav": true,
+                                                    "dots": false,
+                                                    "smartSpeed": 500,
+                                                    "autoplayTimeout": 10000,
+                                                    "navText": ["<span class=\"fa fa-angle-left\"><p>Previous</p></span>",
+                                                    "<span class=\"fa fa-angle-right\"><p>Next</p></span>"],
+                                                    "responsive": {
+                                                        "0": {
+                                                            "items": 1
+                                                        },
+                                                        "768": {
+                                                            "items": 1
+                                                        },
+                                                        "992": {
+                                                            "items": 3
+                                                        },
+                                                        "1200": {
+                                                            "items": 3.181111
+                                                        }
+                                                    }
+                                                }'
+                          >
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_3633.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>New Athletic Shoes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >Let’s education for children get good
+                                      life</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_1631.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>New Athletic Shoes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >It is a long established fact that a
+                                      reader</a
+                                    >
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_3860.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>New Athletic Shoes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="item">
+                              <div class="causes-one__single">
+                                <div class="causes-one__img">
+                                  <img
+                                    src="assets/images/lyn content/IMG_6072.jpeg"
+                                    alt=""
+                                  />
+                                  <div class="causes-one__cat">
+                                    <p>New Athletic Shoes</p>
+                                  </div>
+                                </div>
+                                <div class="causes-one__content">
+                                  <h3 class="causes-one__title">
+                                    <a href="donation-details.html"
+                                      >There are many variations of passages of
+                                    </a>
+                                  </h3>
+                                  <p class="causes-one__text">
+                                    There are many of lorem, but majori have
+                                    suffered alteration in some form.
+                                  </p>
+                                  <div class="causes-one__progress">
+                                    <div
+                                      class="causes-one__progress-shape"
+                                      style="
+                                        background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);
+                                      "
+                                    ></div>
+                                    <!-- <div class="bar">
+                                      <div
+                                        class="bar-inner count-bar"
+                                        data-percent="36%"
+                                      >
+                                        <div class="count-text">36%</div>
+                                      </div>
+                                    </div>
+                                    <div class="causes-one__goals">
+                                      <p><span>$25,270</span> Raised</p>
+                                      <p><span>$30,000</span> Goal</p>
+                                    </div> -->
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Causse Two End-->
+
+      <!--Testimonial Two Start-->
+
+      <!--Testimonial Two End-->
+
+      <!--Gallery Two Start-->
+
+      <!--Gallery Two End-->
+
+      <!--Help Start-->
+
+      <!--Help End-->
+
+      <!--Urgent Cause Start-->
+
+      <!--Urgent Cause End-->
+
+      <!--Team One Start-->
+
+      <!--Team One End-->
+
+      <!--Google Map Start-->
+
+      <!--Google Map End-->
+
+      <!--Contact One Start-->
+
+      <!--Contact One End-->
+
+      <!--News Two Start-->
+
+      <!--News Two End-->
+
+      <!--Brand One Start-->
+
+      <!--Brand One End-->
+
+      <!--Site Footer Start-->
+
+      <!--Site Footer End-->
+    </div>
+    <!-- /.page-wrapper -->
+
+    <div class="mobile-nav__wrapper">
+      <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+      <!-- /.mobile-nav__overlay -->
+      <div class="mobile-nav__content">
+        <span class="mobile-nav__close mobile-nav__toggler"
+          ><i class="fa fa-times"></i
+        ></span>
+
+        <div class="logo-box">
+          <a href="index.html" aria-label="logo image"
+            ><img src="assets/images/resources/logo-2.png" width="143" alt=""
+          /></a>
+        </div>
+        <!-- /.logo-box -->
+        <div class="mobile-nav__container"></div>
+        <!-- /.mobile-nav__container -->
+
+        <ul class="mobile-nav__contact list-unstyled">
+          <li>
+            <i class="fa fa-envelope"></i>
+            <a href="mailto:needhelp@packageName__.com">needhelp@oxpins.com</a>
+          </li>
+          <li>
+            <i class="fa fa-phone-alt"></i>
+            <a href="tel:666-888-0000">666 888 0000</a>
+          </li>
+        </ul>
+        <!-- /.mobile-nav__contact -->
+        <div class="mobile-nav__top">
+          <div class="mobile-nav__social">
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-facebook-square"></a>
+            <a href="#" class="fab fa-pinterest-p"></a>
+            <a href="#" class="fab fa-instagram"></a>
+          </div>
+          <!-- /.mobile-nav__social -->
+        </div>
+        <!-- /.mobile-nav__top -->
+      </div>
+      <!-- /.mobile-nav__content -->
+    </div>
+    <!-- /.mobile-nav__wrapper -->
+
+    <div class="search-popup">
+      <div class="search-popup__overlay search-toggler"></div>
+      <!-- /.search-popup__overlay -->
+      <div class="search-popup__content">
+        <form action="#">
+          <label for="search" class="sr-only">search here</label
+          ><!-- /.sr-only -->
+          <input type="text" id="search" placeholder="Search Here..." />
+          <button type="submit" aria-label="search submit" class="thm-btn">
+            <i class="icon-magnifying-glass"></i>
+          </button>
+        </form>
+      </div>
+      <!-- /.search-popup__content -->
+    </div>
+    <!-- /.search-popup -->
+
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"
+      ><i class="icon-up-arrow"></i
+    ></a>
+
+    <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="assets/vendors/odometer/odometer.min.js"></script>
+    <script src="assets/vendors/swiper/swiper.min.js"></script>
+    <script src="assets/vendors/tiny-slider/tiny-slider.min.js"></script>
+    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="assets/vendors/wow/wow.js"></script>
+    <script src="assets/vendors/isotope/isotope.js"></script>
+    <script src="assets/vendors/countdown/countdown.min.js"></script>
+    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendors/bxslider/jquery.bxslider.min.js"></script>
+    <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="assets/vendors/vegas/vegas.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/timepicker/timePicker.js"></script>
+    <script src="assets/vendors/circleType/jquery.circleType.js"></script>
+    <script src="assets/vendors/circleType/jquery.lettering.min.js"></script>
+
+    <!-- template js -->
+    <script src="assets/js/oxpins.js"></script>
+  </body>
+</html>

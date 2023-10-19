@@ -1681,7 +1681,7 @@
     }
 
     .main-menu__right-top {
-        justify-content: inherit;
+        /* justify-content: inherit; */
     }
 
     .main-menu__right-top-address-list li+li {

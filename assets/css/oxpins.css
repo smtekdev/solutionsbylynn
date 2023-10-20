@@ -5009,8 +5009,8 @@ font-family: 'wienprounic-regular', sans-serif;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  mix-blend-mode: luminosity;
-  opacity: 0.03;
+  /* mix-blend-mode: luminosity; */
+  opacity: 0.70;
   z-index: -1;
 }
 
@@ -5063,7 +5063,7 @@ font-family: 'wienprounic-regular', sans-serif;
   font-size: 14px;
   font-weight: 800;
   color: #fff;
-  background-color: var(--oxpins-primary);
+  background-color:#604ea3;
   padding: 10px 40px 10px;
   text-transform: uppercase;
   border-radius: 25px;
@@ -5250,7 +5250,7 @@ font-family: 'wienprounic-regular', sans-serif;
 
 .site-footer__social a {
   position: relative;
-  height: 40px;
+  height: 32px;
   width: 40px;
   display: -webkit-box;
   display: -ms-flexbox;

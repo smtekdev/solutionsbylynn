@@ -5026,7 +5026,7 @@ font-family: 'wienprounic-regular', sans-serif;
 .site-footer__top {
   position: relative;
   display: block;
-  padding: 58px 0 58px;
+  padding: 28px 0 10px;
 }
 
 .footer-widget__about {
@@ -6234,6 +6234,7 @@ font-family: 'wienprounic-regular', sans-serif;
   position: relative;
   display: block;
   margin-top: -50px;
+  margin-bottom: 40px;
   z-index: 1;
 }
 
